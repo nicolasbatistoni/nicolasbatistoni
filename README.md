@@ -18,11 +18,13 @@ sé dónde suelen esconderse las fallas porque me tocó escribir y operar los si
 🌐 **[nicolasbatistoni.com](https://nicolasbatistoni.com)**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-18.47%20million%20Lineas%20de%20c%C3%B3digo-blue?style=flat)
 
 **🐱 Mis datos de GitHub** 
 
-> 📦 ? Almacenamiento de GitHub utilizado 
+> 📦 2.0 MB Almacenamiento de GitHub utilizado 
  > 
 > 🏆 86 Contribuciones durante el año 2026
  > 
@@ -30,7 +32,7 @@ sé dónde suelen esconderse las fallas porque me tocó escribir y operar los si
  > 
 > 📜 3 Repositorios Públicos 
  > 
-> 🔑 0 Repositorios Privados 
+> 🔑 63 Repositorios Privados 
  > 
 **Soy diurno 🐤** 
 
@@ -88,7 +90,7 @@ GDScript                 4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nicolasbatistoni/nicolasbatistoni/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2026 13:14:23 UTC
+ Last Updated on 06/07/2026 13:31:37 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Lenguajes y Tecnologías
