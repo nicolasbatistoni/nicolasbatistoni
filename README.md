@@ -20,7 +20,7 @@ and the CI/CD + infra that runs it all. One person, the whole stack, with discip
 - **Mobile:** Expo / React Native  ·  **Desktop/Games:** Godot · Unreal · C++/Vulkan
 - **Backend/data:** Node · Express · MongoDB · hexagonal domains
 - **AI/ML & robotics:** Python · asset pipelines · world-model RL
-- **Security:** pentesting / offensive-security tooling (authorized engagements)
+- **Security:** offensive security / pentesting — **eJPT-certified** (authorized engagements)
 - **DevOps/Infra:** a portable bash CI/CD engine · Woodpecker · Docker/GHCR · k3s on a Raspberry Pi homelab · Vercel
 
 Most of my work lives in private repos. The best way to see it is the products themselves —
