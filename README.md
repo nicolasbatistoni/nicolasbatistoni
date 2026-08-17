@@ -22,6 +22,8 @@ sé dónde suelen esconderse las fallas porque me tocó escribir y operar los si
 
 **🐱 Mis datos de GitHub** 
 
+> 📦 1.6 MB Almacenamiento de GitHub utilizado 
+ > 
 > 🏆 12,697 Contribuciones durante el año 2026
  > 
 > 💼 Abierto a contratación
@@ -74,7 +76,7 @@ GDScript                 4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nicolasbatistoni/nicolasbatistoni/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 12:48:38 UTC
+ Last Updated on 17/08/2026 12:52:34 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Lenguajes y Tecnologías
