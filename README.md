@@ -22,8 +22,6 @@ sé dónde suelen esconderse las fallas porque me tocó escribir y operar los si
 
 **🐱 Mis datos de GitHub** 
 
-> 📦 1.6 MB Almacenamiento de GitHub utilizado 
- > 
 > 🏆 13,619 Contribuciones durante el año 2026
  > 
 > 💼 Abierto a contratación
