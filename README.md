@@ -18,11 +18,13 @@ sé dónde suelen esconderse las fallas porque me tocó escribir y operar los si
 🌐 **[nicolasbatistoni.com](https://nicolasbatistoni.com)**
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-51.87%20million%20Lineas%20de%20c%C3%B3digo-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-51.05%20million%20Lineas%20de%20c%C3%B3digo-blue?style=flat)
 
 **🐱 Mis datos de GitHub** 
 
-> 🏆 15,140 Contribuciones durante el año 2026
+> 📦 1.6 MB Almacenamiento de GitHub utilizado 
+ > 
+> 🏆 15,267 Contribuciones durante el año 2026
  > 
 > 💼 Abierto a contratación
  > 
@@ -33,21 +35,21 @@ sé dónde suelen esconderse las fallas porque me tocó escribir y operar los si
 **Soy diurno 🐤** 
 
 ```text
-🌞 Mañana                 46522 commits       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-🌆 Día                    78623 commits       ██████████░░░░░░░░░░░░░░░   40.29 % 
-🌃 Tarde                  55274 commits       ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-🌙 Noche                  14702 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+🌞 Mañana                 46352 commits       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+🌆 Día                    78647 commits       ██████████░░░░░░░░░░░░░░░   40.29 % 
+🌃 Tarde                  55506 commits       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+🌙 Noche                  14682 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 ```
 📅 **Soy más productivo los Viernes** 
 
 ```text
-Lunes                    29600 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Martes                   23801 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Miércoles                32294 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Jueves                   32043 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Viernes                  36259 commits       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Sábado                   28059 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Domingo                  13065 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Lunes                    29513 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Martes                   23851 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Miércoles                32443 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Jueves                   32018 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Viernes                  36190 commits       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Sábado                   27982 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Domingo                  13190 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 ```
 
 
@@ -74,7 +76,7 @@ GDScript                 4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nicolasbatistoni/nicolasbatistoni/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 16:23:30 UTC
+ Last Updated on 10/09/2026 16:12:09 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Lenguajes y Tecnologías
