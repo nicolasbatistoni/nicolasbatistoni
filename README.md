@@ -22,7 +22,9 @@ sé dónde suelen esconderse las fallas porque me tocó escribir y operar los si
 
 **🐱 Mis datos de GitHub** 
 
-> 🏆 17,122 Contribuciones durante el año 2026
+> 📦 1.6 MB Almacenamiento de GitHub utilizado 
+ > 
+> 🏆 17,136 Contribuciones durante el año 2026
  > 
 > 💼 Abierto a contratación
  > 
@@ -34,9 +36,9 @@ sé dónde suelen esconderse las fallas porque me tocó escribir y operar los si
 
 ```text
 🌞 Mañana                 55919 commits       ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-🌆 Día                    96909 commits       ██████████░░░░░░░░░░░░░░░   40.47 % 
-🌃 Tarde                  68443 commits       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-🌙 Noche                  18165 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+🌆 Día                    96910 commits       ██████████░░░░░░░░░░░░░░░   40.47 % 
+🌃 Tarde                  68447 commits       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+🌙 Noche                  18168 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 ```
 📅 **Soy más productivo los Viernes** 
 
@@ -45,9 +47,9 @@ Lunes                    35887 commits       ████░░░░░░░�
 Martes                   30149 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
 Miércoles                40904 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 Jueves                   39293 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Viernes                  43515 commits       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Sábado                   33593 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Domingo                  16095 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Viernes                  43516 commits       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Sábado                   33597 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Domingo                  16098 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 ```
 
 
@@ -74,7 +76,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nicolasbatistoni/nicolasbatistoni/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 16:13:11 UTC
+ Last Updated on 27/09/2026 16:53:40 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Lenguajes y Tecnologías
