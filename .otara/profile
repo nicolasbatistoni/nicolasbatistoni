@@ -1,0 +1,3 @@
+MINIMAL
+# Perfil de gobernanza (AGENTS GOV-7; detalle: docs/engineering/architecture.md §2).
+# Valores: MANAGED | MINIMAL | FORK | ARCHIVED. La primera línea no comentada es el perfil.

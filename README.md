@@ -1,3 +1,4 @@
+<!-- Estado: activo (REL-6). Zona generada: entre START_SECTION:waka y END_SECTION:waka; no editar a mano. -->
 [![Update README](https://github.com/nicolasbatistoni/nicolasbatistoni/actions/workflows/update-readme.yml/badge.svg)](https://github.com/nicolasbatistoni/nicolasbatistoni/actions/workflows/update-readme.yml)
 
 ### Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
