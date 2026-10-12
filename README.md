@@ -23,6 +23,8 @@ sé dónde suelen esconderse las fallas porque me tocó escribir y operar los si
 
 **🐱 Mis datos de GitHub** 
 
+> 📦 1.6 MB Almacenamiento de GitHub utilizado 
+ > 
 > 🏆 19,066 Contribuciones durante el año 2026
  > 
 > 💼 Abierto a contratación
@@ -75,7 +77,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nicolasbatistoni/nicolasbatistoni/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 17:57:50 UTC
+ Last Updated on 12/10/2026 21:40:34 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Lenguajes y Tecnologías
