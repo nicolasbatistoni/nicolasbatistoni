@@ -175,31 +175,15 @@
 > Bloque local: hechos mutables de ESTE repo y concreciones a su stack/dominio (GOV-2, GOV-3).
 
 - Perfil: `MINIMAL` (`.otara/profile`). Estado: **activo** (README, comentario de cabecera).
-- Rol: **perfil público de GitHub** del titular: el `README.md` de este repo es la portada de su cuenta. Lo actualiza
-  a diario `.github/workflows/update-readme.yml` (action `anmol098/waka-readme-stats`, datos de GitHub y WakaTime).
-  Arquitectura: `ARCHITECTURE.md`.
-- El README es **en parte GENERADO**: todo lo que está entre `<!--START_SECTION:waka-->` y `<!--END_SECTION:waka-->`,
-  y `assets/bar_graph.png`, los escribe el workflow; no se editan a mano (el próximo run los pisa). Lo manual es el resto
-  del README: badge del workflow, presentación, «Lenguajes y Tecnologías» y «Contacto».
-- El workflow debe ser reproducible e idempotente: dos ejecuciones con el mismo input no generan diff. Cuando cambia el
-  workflow o lo que genera, se valida en local el YAML (parser + `actionlint`) y el resultado generado, y tras mergear
-  se dispara a mano (`workflow_dispatch`) y se revisa el README resultante antes de declararlo entregado.
+- Rol: **perfil público de GitHub** del titular: el `README.md` de este repo es la portada de su cuenta. Hoy es
+  enteramente manual; el generador de terceros se retiró el 2026-10-15 y lo reemplaza un generador propio
+  (`backlog.d/01`). Arquitectura: `ARCHITECTURE.md`.
 - Material público (DOC-11): el README es la cara pública del titular; sin datos de clientes ni personas de terceros.
 - Verificación de un cambio manual (VER-14, sin CI propio): links e imágenes del README resuelven; SEC-2 en local antes
   de mergear (`trivy fs --scanners secret,misconfig .`, sin hallazgos); `cicd conform` (otaralabs/cicd-toolkit#375,
   todavía sin release) da `✓ Conforme (MINIMAL)`.
   Mergea el agente tras esa verificación (TRUNK-6).
 - Waivers:
-  - `Waiver DEL-4: update-readme.yml no usa el motor de la flota: es el generador del perfil (cron diario de una
-    action de terceros que reescribe el README y commitea), no CI/CD — excepción SÓLO para ese workflow
-    (revisar: 2026-12-31)`.
-  - `Waiver TRUNK-1: los commits del bot (readme-bot) de update-readme.yml van directo a main, sólo dentro de la zona
-    generada; todo cambio manual va por rama + PR (revisar: 2026-12-31)`.
-  - `Waiver TEST-14: el workflow todavía no es idempotente: la action commitea siempre, escribe la hora en «Last
-    Updated» y el paso de storage deja un segundo commit; backlog.d/02 (revisar: 2026-10-22)`.
-  - `Waiver SEC-5: actions/checkout@v4 y anmol098/waka-readme-stats@master (que corre la imagen
-    wakareadmestats/waka-readme-stats:master) no están fijados por SHA/digest y reciben GH_TOKEN; backlog.d/01
-    (revisar: 2026-10-22)`.
   - `Waiver DEL-2: el repo no versiona hooks (.githooks/); se instalan con cicd install-hooks en su propia PR
     (revisar: 2026-10-22)`.
 <!-- otara:local:end -->
